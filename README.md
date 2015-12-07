@@ -9,5 +9,5 @@ is established to measure and explorer the variables. Model diagnosis is applied
 A logistic regression model is built to explore the relationships between the probability of house sparrow’s survival and their 
 physical characteristics. Step wise selection is applied to find the “best” model. 
 
-##2. 138:
+##3. 138:
 Logistic regression model to predict and analyze the depression patients.
